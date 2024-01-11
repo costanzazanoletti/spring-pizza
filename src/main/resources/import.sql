@@ -1,0 +1,1 @@
+INSERT INTO pizze (price, name, description, image_url) VALUES(8.50, 'Margherita', 'Pomodoro, Mozzarella, Origano', 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pizza_Margherita_stu_spivack.jpg/260px-Pizza_Margherita_stu_spivack.jpg');
